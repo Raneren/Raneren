@@ -6,14 +6,19 @@
 
 <div id="socials" align="center">
     
-<!-- <h2>Найти меня можно в Telegram и Discord</h2>
-  <a href="telegram-url">
+<h2>Найти меня можно в Telegram, VK и Discord</h2>
+  <a href="https://t.me/raneren">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 
-  <a href="discord-url">
+  <a href="https://vk.com/raneren">
+    <img src="https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?logo=vk&logoColor=white&style=for-the-badge" alt="Vkontakte"/>
+  </a>
+
+  <a href="https://discordapp.com/users/363787074312208385">
     <img src="https://img.shields.io/badge/-discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a> -->
+  </a>
+   
    
 </div>
 
